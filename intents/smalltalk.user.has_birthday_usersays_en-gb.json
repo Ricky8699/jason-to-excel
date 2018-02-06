@@ -1,0 +1,94 @@
+[
+  {
+    "id": "4d30f18e-e9bd-4f87-9d97-601e02054cfa",
+    "data": [
+      {
+        "text": "I\u0027m celebrating my birthday today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4877ec2-41de-4b3c-ab36-87968f92d0bb",
+    "data": [
+      {
+        "text": "it\u0027s my b-day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a87c6ba3-b51b-48e0-af10-2fd528f0063e",
+    "data": [
+      {
+        "text": "it\u0027s my birthday today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31883025-27e3-48d1-babb-228817f0b7e1",
+    "data": [
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is my ",
+        "userDefined": false
+      },
+      {
+        "text": "birthday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17d08218-0d42-4af6-960e-3ca68a5bbd05",
+    "data": [
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is my ",
+        "userDefined": false
+      },
+      {
+        "text": "birthday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d1e344b-ad4f-4e14-a5a0-770bf536c959",
+    "data": [
+      {
+        "text": "I was born today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
